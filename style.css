@@ -1,1 +1,16 @@
-css
+/* selector por tag */
+h2 {
+    color: rgb(255, 0, 162);
+}
+
+/* cambiar el color de una etiqueta p dentro de una etiquete article */
+
+/* selector por clase */
+.subtitulo {
+    color: blue;
+}
+
+/* selector por id */
+#subtitulo2 {
+    color: red;
+}
